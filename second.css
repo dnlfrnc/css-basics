@@ -1,0 +1,34 @@
+.odd {
+    font-family: Verdana, sans-serif;
+    background-color: lightpink;
+}
+
+#two {
+    color: blue;
+    font-size: 32px;
+}
+
+.odd.two {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
